@@ -1,0 +1,22 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "Calculadorita",
+  "main": "calc.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Juan Lozano",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
